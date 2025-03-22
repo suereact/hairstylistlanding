@@ -26,4 +26,5 @@
 body {
   color: var(--main-text);
   font-family: var(--font-dm-sans);
+  background-color: #dfccc2;
 }
